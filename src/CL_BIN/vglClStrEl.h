@@ -1,1 +1,0 @@
-../vglClStrEl.h
